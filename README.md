@@ -1,4 +1,5 @@
-# Setup-BiglyBT-Android-for-I2P
+How to download using I2P and BiglyBT for Android
+=================================================
 
 In a release this year, the BiglyBT port to Android gained support for
 downloading torrents via I2P. While the configuration is somewhat difficult to
