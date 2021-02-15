@@ -19,12 +19,14 @@ Download and install BiglyBT from your preferred source and you will be ready to
  2. Choose the "Settings" item from the menu that appears. This will open a basic version
   of the settings menu.
   - ![Open Settings](screenshots/Screenshot-Step-2.png)
- 3. I2P settings are part of the "Full Settings" menu, and the full-settings menu is at the
+ 3. Open "Mode" from the top of the "Settings" menu and switch to "Advanced" mode which makes the I2P configuration visible. Return to the previous "Settings" menu.
+  - ![Enable Advanced Settings](screenshots/Screenshot-Step-25.png) 
+ 4. I2P settings are part of the "Full Settings" menu, and the full-settings menu is at the
   bottom of the list.
   - ![Open Full Settings](screenshots/Screenshot-Step-3.png)
- 4. One more menu deep is the "Connection Settings." Open this menu to enable different
+ 5. One more menu deep is the "Connection Settings." Open this menu to enable different
   kinds of connections.
   - ![Open Connection Settings](screenshots/Screenshot-Step-4.png)
- 5. Finally, scroll to the bottom of the menu and flip the switch to enable I2P.
+ 6. Finally, scroll to the bottom of the menu and flip the switch to enable I2P.
   - ![Enable I2P](screenshots/Screenshot-Step-5.png)
 
